@@ -4,7 +4,7 @@
 
 | Brown Robinson Method | [lab1.ipynb](./lab1.ipynb) |
 | --------------------- | -------------------- |
-|                       |                      |
+| **Convex-concave antagonistic game** | [lab2.ipynb](./lab2.ipynb) |
 |                       |                      |
 
 
