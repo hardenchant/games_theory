@@ -47,10 +47,6 @@ def get_nash_equilibrium_points(matr):
 
     sp_matr = [[cell[1] for cell in row] for row in matr]
     sp_matr_row_maxs = [max(row) for row in sp_matr]
-    # for i, row in enumerate(matr):
-    #     for j, (fp, sp) in enumerate(row):
-    #         if fp == fp_matr_row_maxs[i] and sp == sp_matr_col_maxs[j]:
-    #             [(fp, sp), (i, j)]
 
     return [
         [fp, sp] for i, row in enumerate(matr) for j, (fp, sp) in enumerate(row) if
