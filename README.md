@@ -6,6 +6,7 @@
 | --------------------- | -------------------- |
 | **Convex-concave antagonistic game** | [lab2.ipynb](./lab2.ipynb) |
 | **Nash, Pareto optimal** | [lab3.py](./lab3.py) |
+| **Infinity antagonistic games (on paraboloid)** | [lab3.py](./rk1.py) |
 
 
 ### Fast run
